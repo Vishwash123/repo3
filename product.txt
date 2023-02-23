@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+int a,b;
+printf("Enter the first no. : ");
+scanf("%d",&a);
+printf("Enter the second no. : ");
+scanf("%d",&b);
+printf("The Product of the two no.s : %d",(a*b));
+return 0;
+}
